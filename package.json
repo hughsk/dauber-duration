@@ -1,0 +1,38 @@
+{
+  "name": "dauber-duration",
+  "version": "1.0.0",
+  "description": "Pooled requestedAnimationFrame tool for running multiple short bursts of animation",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test | tap-spec"
+  },
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {
+    "dauber": "^1.0.1",
+    "right-now": "^1.0.0"
+  },
+  "devDependencies": {
+    "tap-spec": "^1.0.0",
+    "tape": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/dauber-duration.git"
+  },
+  "keywords": [
+    "duration",
+    "dauber",
+    "time",
+    "animation",
+    "frame"
+  ],
+  "homepage": "https://github.com/hughsk/dauber-duration",
+  "bugs": {
+    "url": "https://github.com/hughsk/dauber-duration/issues"
+  }
+}
