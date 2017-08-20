@@ -1,4 +1,6 @@
-# dauber-duration [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+# dauber-duration [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
+**Deprecated**
 
 Pooled requestedAnimationFrame tool for running multiple short bursts of animation
 
